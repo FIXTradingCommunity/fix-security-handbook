@@ -1,5 +1,5 @@
 # fix-security-handbook
-Security best practices for FIX
+Information security best practices for FIX
 
 **Under development**
 
